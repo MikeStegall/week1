@@ -1,12 +1,12 @@
-1.)  b)/
-2.)  b)/
-3.)  b) End of the path
-4.)  a) The filename starts with a .
-5.)  b) ../
-6.)  a) absolute
-7.)  b) relative
-8.)  a) ~
-9.)  c) touch
+01.) b)/
+02.) b)/
+03.) b) End of the path
+04.) a) The filename starts with a .
+05.) b) ../
+06.) a) absolute
+07.) b) relative
+08.) a) ~
+09.) c) touch
 10.) a) rm
 11.) c) cp
 12.) d) mv
@@ -16,8 +16,8 @@
 16.) d) git diff
 17.) d) .gitignore
 18.) a) The master branch
-19.) 
+19.) c) git checkout
 20.) d) A conflict is created that must be resolved by the developer
-21.) 
+21.) a) git remote add
 22.)
 23.)
