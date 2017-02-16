@@ -19,5 +19,5 @@
 19.) c) git checkout
 20.) d) A conflict is created that must be resolved by the developer
 21.) a) git remote add
-22.) 
-23.) d) git push
+22.) d) git push
+23.) a) git pull
