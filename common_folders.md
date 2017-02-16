@@ -1,1 +1,1 @@
-The three important folders in the default OSX file system are /Users, /bin, 
+The three important folders in the default OSX file system are /Users, root(/), and documents. This are importand because root means it is where everything is storied. /Users is where most of your files will be saved and and be able to be edited at. /Documents is where all of your homework should be saved as of right now.
